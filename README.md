@@ -46,6 +46,7 @@ Click on any project.
 You can create Issues inside the project.
 
 Once you create an Issue, you can assign it to any user (that user is added as a member of the project).
+Bug: You need to reload the page to see the newly created Isuue.
 
 You can log in using the user you assigned the project to.
 
